@@ -39,8 +39,8 @@ namespace API.Controllers
             var data = new DataMB
             {
                 Date = "20/01/2025",
-                Type = "XSMB",
-                Datas = new List<DataEntry>
+                type = "XSMB",
+                datas = new List<DataEntry>
         {
             new DataEntry
             {
@@ -64,21 +64,21 @@ namespace API.Controllers
             {
                 while (webSocket.State == WebSocketState.Open)
                 {
-                    foreach (var loto in data.Datas[0].Loto_top)
+                    foreach (var loto in data.datas[0].Loto_top)
                     {
                         loto.last_number = rng.Next(0, 2) == 0
                             ? "" // 50% khả năng là chuỗi rỗng
                             : string.Join(",", Enumerable.Range(0, rng.Next(1, 4)).Select(_ => rng.Next(0, 10))); // Hoặc danh sách số
                     }
 
-                    foreach (var loto in data.Datas[0].Loto_last)
+                    foreach (var loto in data.datas[0].Loto_last)
                     {
                         loto.top_number = rng.Next(0, 2) == 0
                             ? "" // 50% khả năng là chuỗi rỗng
                             : string.Join(",", Enumerable.Range(0, rng.Next(1, 4)).Select(_ => rng.Next(0, 10))); // Hoặc danh sách số
                     }
                     // Cập nhật dữ liệu động cho các giải
-                    foreach (var prize in data.Datas[0].DataPrize)
+                    foreach (var prize in data.datas[0].DataPrize)
                     {
                         int numberOfValues = prize.Number switch
                         {
@@ -119,7 +119,7 @@ namespace API.Controllers
                     }
 
                     // Đợi 5 giây trước khi gửi tiếp
-                    await Task.Delay(5000);
+                    await Task.Delay(15000);
                 }
             }
             finally

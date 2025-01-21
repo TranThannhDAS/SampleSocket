@@ -39,13 +39,14 @@ namespace API.Controllers
     public class DataMB
     {
         public string Date { get; set; }
-        public string Type { get; set; }
-        public List<DataEntry> Datas { get; set; }
+        public string type { get; set; }
+        [JsonPropertyName("datas")]
+        public List<DataEntry> datas { get; set; }
     }
     public class ResultData
     {
-        [JsonPropertyName("Data")]
-        public object Data { get; set; }
+
+        public object data { get; set; }
 
         [JsonPropertyName("Message")]
         public string Message { get; set; }

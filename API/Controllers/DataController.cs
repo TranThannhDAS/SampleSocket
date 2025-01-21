@@ -38,7 +38,7 @@ namespace API.Controllers
 
                 return Ok(new ResultData
                 {
-                    Data = data,
+                    data = data,
                     Message = "",
                     Success = true,
                 });
