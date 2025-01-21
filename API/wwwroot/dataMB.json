@@ -1,0 +1,257 @@
+﻿{
+  "Date": "20/01/2025",
+  "Type": "XSMB",
+  "Datas": [
+    {
+      "LocationCode": "XSMB",
+      "LocationName": "",
+      "Loto_top": [
+        {
+          "top_number": 0,
+          "last_number": ""
+        },
+        {
+          "top_number": 1,
+          "last_number": ""
+        },
+        {
+          "top_number": 2,
+          "last_number": "9,0,9"
+        },
+        {
+          "top_number": 3,
+          "last_number": "0,2"
+        },
+        {
+          "top_number": 4,
+          "last_number": "6,5,9"
+        },
+        {
+          "top_number": 5,
+          "last_number": "8,9,0"
+        },
+        {
+          "top_number": 6,
+          "last_number": "4,7"
+        },
+        {
+          "top_number": 7,
+          "last_number": "2,7,5,6,0,9"
+        },
+        {
+          "top_number": 8,
+          "last_number": "8,7"
+        },
+        {
+          "top_number": 9,
+          "last_number": "0,3"
+        }
+      ],
+      "Loto_last": [
+        {
+          "last_number": 0,
+          "top_number": "3,2,7,9,5"
+        },
+        {
+          "last_number": 1,
+          "top_number": "0"
+        },
+        {
+          "last_number": 2,
+          "top_number": "7,3"
+        },
+        {
+          "last_number": 3,
+          "top_number": "9"
+        },
+        {
+          "last_number": 4,
+          "top_number": "6"
+        },
+        {
+          "last_number": 5,
+          "top_number": "8,2"
+        },
+        {
+          "last_number": 6,
+          "top_number": "4,7,1"
+        },
+        {
+          "last_number": 7,
+          "top_number": "1,8,7"
+        },
+        {
+          "last_number": 8,
+          "top_number": "8,5"
+        },
+        {
+          "last_number": 9,
+          "top_number": "2,2,6,5,1,4,7"
+        }
+      ],
+      "DataPrize": [
+        {
+          "Number": 8,
+          "Text": "prize_8",
+          "Data": []
+        },
+        {
+          "Number": 7,
+          "Text": "prize_7",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": ""
+            },
+            {
+              "keyId": 2,
+              "value": "79"
+            },
+            {
+              "keyId": 3,
+              "value": "3"
+            },
+            {
+              "keyId": 4,
+              "value": "16"
+            }
+          ]
+        },
+        {
+          "Number": 6,
+          "Text": "prize_6",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": ""
+            },
+            {
+              "keyId": 2,
+              "value": "223"
+            },
+            {
+              "keyId": 3,
+              "value": "832"
+            }
+          ]
+        },
+        {
+          "Number": 5,
+          "Text": "prize_5",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "4829"
+            },
+            {
+              "keyId": 2,
+              "value": "6476"
+            },
+            {
+              "keyId": 3,
+              "value": ""
+            },
+            {
+              "keyId": 4,
+              "value": "6570"
+            },
+            {
+              "keyId": 5,
+              "value": "8201"
+            },
+            {
+              "keyId": 6,
+              "value": "1659"
+            }
+          ]
+        },
+        {
+          "Number": 4,
+          "Text": "prize_4",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "8975"
+            },
+            {
+              "keyId": 2,
+              "value": "5630"
+            },
+            {
+              "keyId": 3,
+              "value": "4329"
+            },
+            {
+              "keyId": 4,
+              "value": "4120"
+            }
+          ]
+        },
+        {
+          "Number": 3,
+          "Text": "prize_3",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "75388"
+            },
+            {
+              "keyId": 2,
+              "value": ""
+            },
+            {
+              "keyId": 3,
+              "value": ""
+            },
+            {
+              "keyId": 4,
+              "value": "25277"
+            },
+            {
+              "keyId": 5,
+              "value": "43164"
+            },
+            {
+              "keyId": 6,
+              "value": "37345"
+            }
+          ]
+        },
+        {
+          "Number": 2,
+          "Text": "prize_2",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "11172"
+            },
+            {
+              "keyId": 2,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "Number": 1,
+          "Text": "prize_1",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "Number": 0,
+          "Text": "prize_special",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,222 @@
+﻿{
+  "Date": "20/01/2025",
+  "Type": "XSMN",
+  "Datas": [
+    {
+      "LocationCode": "PHU_YEN",
+      "LocationName": "PHÚ YÊN",
+      "Loto_top": [
+        {
+          "top_number": 0,
+          "last_number": ""
+        },
+        {
+          "top_number": 1,
+          "last_number": "0"
+        },
+        {
+          "top_number": 2,
+          "last_number": "4"
+        },
+        {
+          "top_number": 3,
+          "last_number": ""
+        },
+        {
+          "top_number": 4,
+          "last_number": "8"
+        },
+        {
+          "top_number": 5,
+          "last_number": "1,6,6"
+        },
+        {
+          "top_number": 6,
+          "last_number": ""
+        },
+        {
+          "top_number": 7,
+          "last_number": ""
+        },
+        {
+          "top_number": 8,
+          "last_number": "5"
+        },
+        {
+          "top_number": 9,
+          "last_number": ""
+        }
+      ],
+      "Loto_last": [
+        {
+          "last_number": 0,
+          "top_number": "1"
+        },
+        {
+          "last_number": 1,
+          "top_number": "5"
+        },
+        {
+          "last_number": 2,
+          "top_number": ""
+        },
+        {
+          "last_number": 3,
+          "top_number": ""
+        },
+        {
+          "last_number": 4,
+          "top_number": "2"
+        },
+        {
+          "last_number": 5,
+          "top_number": "8"
+        },
+        {
+          "last_number": 6,
+          "top_number": "5,5"
+        },
+        {
+          "last_number": 7,
+          "top_number": ""
+        },
+        {
+          "last_number": 8,
+          "top_number": "4"
+        },
+        {
+          "last_number": 9,
+          "top_number": ""
+        }
+      ],
+      "DataPrize": [
+        {
+          "Number": 8,
+          "Text": "prize_8",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "51"
+            }
+          ]
+        },
+        {
+          "Number": 7,
+          "Text": "prize_7",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "Number": 6,
+          "Text": "prize_6",
+          "Data": [
+            {
+              "keyId": 3,
+              "value": "9385"
+            },
+            {
+              "keyId": 2,
+              "value": "3048"
+            },
+            {
+              "keyId": 1,
+              "value": "2056"
+            }
+          ]
+        },
+        {
+          "Number": 5,
+          "Text": "prize_5",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "4856"
+            }
+          ]
+        },
+        {
+          "Number": 4,
+          "Text": "prize_4",
+          "Data": [
+            {
+              "keyId": 7,
+              "value": "99210"
+            },
+            {
+              "keyId": 6,
+              "value": "55"
+            },
+            {
+              "keyId": 5,
+              "value": ""
+            },
+            {
+              "keyId": 4,
+              "value": "66"
+            },
+            {
+              "keyId": 3,
+              "value": "55"
+            },
+            {
+              "keyId": 2,
+              "value": ""
+            },
+            {
+              "keyId": 1,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "Number": 3,
+          "Text": "prize_3",
+          "Data": [
+            {
+              "keyId": 2,
+              "value": ""
+            },
+            {
+              "keyId": 1,
+              "value": ""
+            }
+          ]
+        },
+        {
+          "Number": 2,
+          "Text": "prize_2",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "555"
+            }
+          ]
+        },
+        {
+          "Number": 1,
+          "Text": "prize_1",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "12"
+            }
+          ]
+        },
+        {
+          "Number": 0,
+          "Text": "prize_special",
+          "Data": [
+            {
+              "keyId": 1,
+              "value": "44"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
